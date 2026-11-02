@@ -121,3 +121,5 @@ Code snippet
 This project is licensed under the terms of the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 &nbsp;
+# academic-credit-ledger-benchmark
+Empirical benchmarking scripts and schema definitions for geo-partitioned distributed SQL academic credit ledgers
